@@ -5,6 +5,9 @@
 cmake_minimum_required(VERSION 2.8)
 project(snowflakeclient)
 
+
+AIKAe123FWFSFSFDFD
+
 # Enabling tests by Ctest. Don't use INCLUDE(Ctest) as
 # we don't need Dart and other tools.
 enable_testing()
